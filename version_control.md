@@ -14,6 +14,8 @@ __Среди множества существующих систем управ
 
 > Для полной информации перейдите по ссылке: [больше информации о Git](https://www.atlassian.com/ru/git/tutorials/what-is-version-control)
 
+![Git image](C:\Users\PC\Desktop\Контроь версий\git_image.jpg)
+
 Git команды:
 
 __git init__ – инициализация локального репозитория.
